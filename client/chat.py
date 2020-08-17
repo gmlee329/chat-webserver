@@ -1,7 +1,7 @@
 import urllib.request
 import json
 
-url = 'http://172.17.0.3:30798/' # request url(can change)
+url = 'http://104.196.217.33/' # request url(can change)
 con = '> '
 
 def request(url):
